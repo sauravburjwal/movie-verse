@@ -1,4 +1,4 @@
-# Movei Verse
+# Movie Verse
 
 Search the movie by the name and get all the informations.
 
